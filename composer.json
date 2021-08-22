@@ -1,0 +1,21 @@
+{
+    "name": "persianyii/yii2-seoblog",
+    "description": "Build a blog following the principles of SEO",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","seo","blog","seoblog"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "fatemekamalvand",
+            "email": "fatemeh.ilam1371@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii\\seoblog\\": ""
+        }
+    }
+}
